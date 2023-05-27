@@ -1,2 +1,2 @@
 My first readme
-Being a great Software Developer
+Becoming a great Software Developer
